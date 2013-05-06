@@ -1,0 +1,5 @@
+jQUERY PLUGINS
+
+= http://fancybox.net/ - lightbox
+= http://tympanus.net/codrops/2011/01/19/sweet-thumbnails-gallery/ - Sweet Thumbnails
+= http://html5shim.googlecode.com/svn/trunk/html5.js
